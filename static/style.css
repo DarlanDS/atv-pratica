@@ -184,3 +184,11 @@ i.menu-mobile {
 *::-webkit-scrollbar-thumb {
     background-color: #400342;
 }
+
+.progress-bar{
+    background-color: #400342;
+}
+
+.section-bg{
+    background-color: #ece3eb;
+}

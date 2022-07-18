@@ -192,3 +192,31 @@ i.menu-mobile {
 .section-bg{
     background-color: #ece3eb;
 }
+
+#card-port {
+    background-color: #ece3eb;
+}
+
+.carousel-control-prev {
+    margin-left: -150px;
+
+}
+
+.carousel-control-next {
+    margin-right: -150px;
+}
+
+.carousel-indicators {
+    margin-bottom: -50px;
+}
+
+@media (max-width: 1860px) {
+    .carousel-control-prev {
+        margin-left: 0;
+    
+    }
+    
+    .carousel-control-next {
+        margin-right: 0;
+    } 
+}
